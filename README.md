@@ -5,9 +5,9 @@ This showcases an animation of Neon text strobe effect. It could be utilized as 
 
 ## Screenshot:
 
-![Sceenshot]()
+![Sceenshot](./neonScreanshot.png?)
 
-[Sceenshot]()
+[Sceenshot](https://imgur.com/XVlxvLs)
 
 ## Technologies Used: 
 
@@ -18,7 +18,7 @@ This showcases an animation of Neon text strobe effect. It could be utilized as 
 
 
 ### Click the link to view the website
-<!-- [Neon Animation]()  -->
+[Neon Animation](https://davesheinbein.github.io/neon-strobe-animation/) 
 
 
 ## Potential Next Steps: 
